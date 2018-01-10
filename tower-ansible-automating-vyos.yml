@@ -80,3 +80,4 @@
     vyos_command:  
        commands:
          - show configuration commands
+    tags: show
